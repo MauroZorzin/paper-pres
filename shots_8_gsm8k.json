@@ -1,0 +1,9 @@
+[
+  {
+    "question": "GSM8K style question 1...",
+    "solution": "Step-by-step reasoning text...",
+    "final_answer": 42
+  },
+  ...
+]
+
